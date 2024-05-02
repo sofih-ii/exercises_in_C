@@ -1,5 +1,4 @@
-
-//show the spare numbers from 1 to 100.
+//show the even numbers from 1 to 100.
 
 #include <stdio.h>
 int main (void){
